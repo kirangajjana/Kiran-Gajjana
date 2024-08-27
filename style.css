@@ -1,15 +1,13 @@
-* {
-    color:rgb(172, 255, 71);
-}
-one {
+
+#one {
     color:antiquewhite;
 }
-two {
+#two {
     color:blueviolet;
 }
-three {
+#three {
     color:turquoise;
 }
-four {
+#four {
     color:yellowgreen;
 }
