@@ -14,8 +14,10 @@
 p {
     color:cornflowerblue;
 }
-new {
-    color:tomato;
+#new {
+    background-color: aqua;
+    height:400px;
+    width:300px;
 }
 s {
     color:red;
